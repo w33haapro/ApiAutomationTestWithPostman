@@ -73,3 +73,6 @@ pm.test("Your test name", function () {
     pm.expect(jsonData.id).to.eql(UserId);
 });
 ```
+
+Note: There are a lot of functions you can use that are explain [here](https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/)
+
